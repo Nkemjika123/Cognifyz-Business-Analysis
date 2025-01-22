@@ -54,9 +54,9 @@ I performed a descriptive statistics  to check the data informations
 
 ## TASK 2: GENDER DISTRIBUTION
 
-![]Screenshot 2025-01-18 015145](https://github.com/user-attachments/assets/7f57f753-0399-4196-a6e0-bb58bfe660c7 | width=100)
+![]Screenshot 2025-01-18 015145](https://github.com/user-attachments/assets/7f57f753-0399-4196-a6e0-bb58bfe660c7 =250x250)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 
 The above bar chart shows that Male has higher distribution of 25 more than Female with 15 count distribution.
 
