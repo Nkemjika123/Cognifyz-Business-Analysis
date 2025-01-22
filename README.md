@@ -28,7 +28,6 @@ The insights from this analysis will benefit individual investors, financial adv
 ## DATA USED
 - <a href="https://github.com/Nkemjika123/Cognifyz-Business-Analysis/blob/main/nkem-analyzed_cognifyz_intern_project_data.csv">Dataset</a>
 
-
 ## Key Questions
 1.	What are the demographic characteristics of the investors?
 2.	Which investment avenues are most popular, and why?
@@ -38,5 +37,14 @@ The insights from this analysis will benefit individual investors, financial adv
 6.	What is the average duration of investments, and what factors influence this?
 7.	What expectations do investors have from their investments?
 8.	Are there any significant correlations between demographic factors and investment behavior?
+
+## TASK 1: DATA OVERVIEW
+ ### Data Cleaning
+•	I imported the data with Pandas on Python.
+•	No missing values 
+I performed a descriptive statistics  to check the data informations
+![Screenshot 2025-01-18 011427](https://github.com/user-attachments/assets/51a23cb9-bfba-44e8-95cf-65a0a291de2e)
+
+
 
 
