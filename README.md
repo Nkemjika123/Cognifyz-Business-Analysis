@@ -25,3 +25,16 @@ In this project, I aim to analyze an investment dataset to uncover valuable insi
 ## Beneficiaries:
 The insights from this analysis will benefit individual investors, financial advisors, and investment firms by providing data-driven recommendations to enhance investment strategies.
 
+DATASET
+
+## Key Questions
+1.	What are the demographic characteristics of the investors?
+2.	Which investment avenues are most popular, and why?
+3.	What are the primary reasons for choosing certain investments?
+4.	What are the main objectives behind saving and investing?
+5.	Where do investors typically get their information?
+6.	What is the average duration of investments, and what factors influence this?
+7.	What expectations do investors have from their investments?
+8.	Are there any significant correlations between demographic factors and investment behavior?
+
+
