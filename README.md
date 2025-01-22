@@ -22,3 +22,6 @@ In this project, I aim to analyze an investment dataset to uncover valuable insi
 
 •	**Correlation Analysis:** Explore potential correlations between factors.
 
+## Beneficiaries:
+The insights from this analysis will benefit individual investors, financial advisors, and investment firms by providing data-driven recommendations to enhance investment strategies.
+
