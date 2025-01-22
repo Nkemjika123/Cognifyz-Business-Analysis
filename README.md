@@ -47,7 +47,15 @@ The insights from this analysis will benefit individual investors, financial adv
 
 I performed a descriptive statistics  to check the data informations
 ![Screenshot 2025-01-18 011427](https://github.com/user-attachments/assets/51a23cb9-bfba-44e8-95cf-65a0a291de2e)
+
 **The above analysis shows that there are 40 entries, the data types and 24 columns**.
+
+
+## TASK 2: GENDER DISTRIBUTION
+![Screenshot 2025-01-18 015145](https://github.com/user-attachments/assets/7f57f753-0399-4196-a6e0-bb58bfe660c7)
+
+The above bar chart shows that Male has higher distribution of 25 more than Female with 15 count distribution.
+
 
 
 
