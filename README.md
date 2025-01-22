@@ -25,7 +25,9 @@ In this project, I aim to analyze an investment dataset to uncover valuable insi
 ## Beneficiaries:
 The insights from this analysis will benefit individual investors, financial advisors, and investment firms by providing data-driven recommendations to enhance investment strategies.
 
-DATASET
+## DATA USED
+- <a href="https://github.com/Nkemjika123/-NEW_YORK_AIRBNB_ANALYSIS/blob/main/newyork_bnb_analysis.xlsx">Dataset</a>
+
 
 ## Key Questions
 1.	What are the demographic characteristics of the investors?
