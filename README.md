@@ -26,7 +26,7 @@ In this project, I aim to analyze an investment dataset to uncover valuable insi
 The insights from this analysis will benefit individual investors, financial advisors, and investment firms by providing data-driven recommendations to enhance investment strategies.
 
 ## DATA USED
-- <a href="https://github.com/Nkemjika123/-NEW_YORK_AIRBNB_ANALYSIS/blob/main/newyork_bnb_analysis.xlsx">Dataset</a>
+- <a href="https://github.com/Nkemjika123/Cognifyz-Business-Analysis/blob/main/nkem-analyzed_cognifyz_intern_project_data.csv">Dataset</a>
 
 
 ## Key Questions
