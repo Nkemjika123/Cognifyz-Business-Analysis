@@ -46,12 +46,14 @@ The insights from this analysis will benefit individual investors, financial adv
 
 
 I performed a descriptive statistics  to check the data informations
+
 ![Screenshot 2025-01-18 011427](https://github.com/user-attachments/assets/51a23cb9-bfba-44e8-95cf-65a0a291de2e)
 
 **The above analysis shows that there are 40 entries, the data types and 24 columns**.
 
 
 ## TASK 2: GENDER DISTRIBUTION
+
 ![Screenshot 2025-01-18 015145](https://github.com/user-attachments/assets/7f57f753-0399-4196-a6e0-bb58bfe660c7)
 
 The above bar chart shows that Male has higher distribution of 25 more than Female with 15 count distribution.
@@ -62,37 +64,40 @@ I noticed the dataframe selected has a non-numeric data in it, which can cause i
 
 I first selected only numeric datas, 
 Then I calculated descriptive statistics 
+
 ![Screenshot 2025-01-18 022031](https://github.com/user-attachments/assets/a95d73ca-90cb-4707-8bbf-1dc16d18b12f)
 
 
 ## STEP 4: MOST PREFERRED INVESTMENT AVENUE.
+
 ![Screenshot 2025-01-18 184413](https://github.com/user-attachments/assets/96d6de8b-37f0-4be0-bf0d-43c44919ca83)
 
 **The above Pie Chart shows that the most preferred investment avenue is Mutual Funds with 45% frequency.**
 
 
 ## TASK 5: REASONS FOR INVESTMENT
+
 ![Screenshot 2025-01-18 194554](https://github.com/user-attachments/assets/8a0503db-7005-4828-a7a2-27716235265c)
 
 **The analysis above shows the reasons for each investment avenue based on the unique values,**
 
 1. **Equity:**
-   Capital Appreciation: Investors are looking to increase the value of their investment over time.
+   - Capital Appreciation: Investors are looking to increase the value of their investment over time.
    Dividend: Investors are interested in receiving regular income through dividends.
    Liquidity: The ability to quickly convert investments into cash is a priority.
 
 2. **Mutual Funds:**
-   Better Returns: Investors are seeking higher returns compared to other investment options.
+   - Better Returns: Investors are seeking higher returns compared to other investment options.
    Tax Benefits: There are advantages related to tax savings.
    Fund Diversification: Investors value spreading risk across various assets.
 
 3. **Bonds:**
-   Safe Investment: Bonds are perceived as a secure investment choice.
+   - Safe Investment: Bonds are perceived as a secure investment choice.
    Assured Returns: Investors are attracted to the predictability of returns.
    Tax Incentives: Bonds offer certain tax-related benefits.
 
 4. **Fixed Deposits (FD):**
-   Fixed Returns: Investors appreciate the certainty of returns.
+   - Fixed Returns: Investors appreciate the certainty of returns.
    High Interest Rates: The appeal of earning higher interest rates.
    Risk-Free: FDs are considered a low-risk investment option.
 
