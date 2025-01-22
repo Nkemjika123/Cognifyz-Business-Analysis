@@ -41,9 +41,13 @@ The insights from this analysis will benefit individual investors, financial adv
 ## TASK 1: DATA OVERVIEW
  ### Data Cleaning
 •	I imported the data with Pandas on Python.
+
 •	No missing values 
+
+
 I performed a descriptive statistics  to check the data informations
 ![Screenshot 2025-01-18 011427](https://github.com/user-attachments/assets/51a23cb9-bfba-44e8-95cf-65a0a291de2e)
+**The above analysis shows that there are 40 entries, the data types and 24 columns**.
 
 
 
