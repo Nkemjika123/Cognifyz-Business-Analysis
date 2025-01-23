@@ -213,9 +213,9 @@ If most investors are targeting a '20%-30%' return, it could also mean that majo
 
 ## TASK 10: CORRELATION ANALYSIS
 
-| Header 1   | Header 2   |
-|------------|------------|
-| Content 1  | Content 2  |
+| Header 1   | Header 2   | Header 3   | 
+|------------|------------|------------|
+| Content 1  | Content 2  | Content 1  |
 
 
 <img src="https://github.com/user-attachments/assets/2207bade-55eb-4b3f-8b8f-473b344d9be0" width="400" height="250" alt="Image">
