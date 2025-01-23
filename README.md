@@ -72,7 +72,7 @@ Then I calculated descriptive statistics
 
 ## STEP 4: MOST PREFERRED INVESTMENT AVENUE.
 
-![Screenshot 2025-01-18 184413](https://github.com/user-attachments/assets/96d6de8b-37f0-4be0-bf0d-43c44919ca83)
+<img src="https://github.com/user-attachments/assets/2b791188-0c2d-4882-8abd-be833d82da09" width="400" height="250" alt="Image">
 
 **The above Pie Chart shows that the most preferred investment avenue is Mutual Funds with 45% frequency.**
 
