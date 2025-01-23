@@ -213,14 +213,9 @@ If most investors are targeting a '20%-30%' return, it could also mean that majo
 
 ## TASK 10: CORRELATION ANALYSIS
 
-| Header 1   | Header 2   | Header 3   | 
+|    |    |    | 
 |------------|------------|------------|
 | <img src="https://github.com/user-attachments/assets/2207bade-55eb-4b3f-8b8f-473b344d9be0" width="400" height="250" alt="Image">  | <img src="https://github.com/user-attachments/assets/624c6411-774c-4083-8cd5-994d6ea0076a" width="400" height="250" alt="Image">  | <img src="https://github.com/user-attachments/assets/fe7edd0d-4cda-4177-af5d-59d71b3ca390" width="400" height="250" alt="Image"> |
-
-
-| <img src="https://github.com/user-attachments/assets/2207bade-55eb-4b3f-8b8f-473b344d9be0" width="400" height="250" alt="Image"> |
-| <img src="https://github.com/user-attachments/assets/624c6411-774c-4083-8cd5-994d6ea0076a" width="400" height="250" alt="Image"> |
-| <img src="https://github.com/user-attachments/assets/fe7edd0d-4cda-4177-af5d-59d71b3ca390" width="400" height="250" alt="Image"> |
 
 
 **What the Correlation Coefficients Analysis Shows:**
