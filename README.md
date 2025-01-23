@@ -56,6 +56,7 @@ I performed a descriptive statistics  to check the data informations
 
 ![Screenshot 2025-01-18 015145](https://github.com/user-attachments/assets/0226bf56-372b-4d58-b0cd-0a037561b311)
 
+<img src="https://github.com/user-attachments/assets/0226bf56-372b-4d58-b0cd-0a037561b311" width="400" height="250" alt="Image">
 
 
 The above bar chart shows that Male has higher distribution of 25 more than Female with 15 count distribution.
@@ -81,7 +82,6 @@ Then I calculated descriptive statistics
 
 ![Screenshot 2025-01-18 194554](https://github.com/user-attachments/assets/8a0503db-7005-4828-a7a2-27716235265c)
 
-<img src="https://github.com/user-attachments/assets/0226bf56-372b-4d58-b0cd-0a037561b311" width="400" height="250" alt="Image">
 
 **The analysis above shows the reasons for each investment avenue based on the unique values,**
 
