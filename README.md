@@ -125,10 +125,9 @@ Then I calculated descriptive statistics
 *These objectives reflect the diverse priorities individuals have when planning their savings, each addressing a critical aspect of financial planning.*
 
 
-![Screenshot 2025-01-13 003635](https://github.com/user-attachments/assets/f18eee46-e46e-4734-a789-730b643ce9ba)
+![Screenshot 2025-01-13 003635](https://github.com/user-attachments/assets/aa87c722-635d-4cbd-97c8-ff1cdbcefebc)
 
- <img src=" https://github.com/user-attachments/assets/f18eee46-e46e-4734-a789-730b643ce9ba
-" width="400" height="250" alt="Image">
+<img src="https://github.com/user-attachments/assets/aa87c722-635d-4cbd-97c8-ff1cdbcefebc" width="400" height="250" alt="Image">
 
 
 
