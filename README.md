@@ -28,6 +28,9 @@ The insights from this analysis will benefit individual investors, financial adv
 ## DATA USED
 - <a href="https://github.com/Nkemjika123/Cognifyz-Business-Analysis/blob/main/nkem-analyzed_cognifyz_intern_project_data.csv">Dataset</a>
 
+## DASHBOARD 
+- <a href="https://github.com/Nkemjika123/Cognifyz-Business-Analysis/blob/main/princessnkemjikaovuonmhen_Intern_Dashboad.pbix">Dashboard</a>
+
 ## Key Questions
 1.	What are the demographic characteristics of the investors?
 2.	Which investment avenues are most popular, and why?
