@@ -257,6 +257,7 @@ Focus on offering investment products that align with the 20%-30% return expecta
  <img src="https://github.com/user-attachments/assets/a0bd70a7-8c3a-49e2-b294-fc3439622946" width="400" height="250" alt="Image">
 
 
+<img width="921" alt="Screenshot 2024-10-03 024344" src="https://github.com/user-attachments/assets/b1d7b5b8-1584-449a-b205-c82c86b968ee" />
 
 
 
