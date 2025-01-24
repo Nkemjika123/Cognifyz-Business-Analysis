@@ -254,7 +254,7 @@ Focus on offering investment products that align with the 20%-30% return expecta
 *(Princess Nkemjika Ovuonmhen)*
 
 
-
+ <img src="https://github.com/user-attachments/assets/a0bd70a7-8c3a-49e2-b294-fc3439622946" width="400" height="250" alt="Image">
 
 
 
