@@ -1,6 +1,21 @@
 # Investment Insights: A Comprehensive Analysis
 In this project, I aim to analyze an investment dataset to uncover valuable insights that can guide decision-making for potential investors. The dataset includes various financial metrics and historical data points related to different investment opportunities.
 
+## Table of Contents
+1. [Project Overview](#project-overview)  
+2. [Objectives](#objectives)  
+3. [Beneficiaries](#beneficiaries)  
+4. [Data Used](#data-used)  
+5. [Dashboard](#dashboard)  
+6. [Key Questions](#key-questions)  
+7. [Task 1: Data Overview](#task-1-data-overview)  
+8. [Task 2: Gender Distribution](#task-2-gender-distribution)  
+9. [Task 3: Descriptive Statistics](#task-3-descriptive-statistics)  
+10. [Task 4: Most Preferred Investment Avenue](#task-4-most-preferred-investment-avenue)  
+11. [Task 5: Reasons for Investment](#task-5-reasons-for-investment)  
+12. [Task 6: Saving Objectives](#task-6-saving-objectives)  
+
+
 ## Objectives:
 •	**Data Overview**: To Understand the dataset structure.
 
