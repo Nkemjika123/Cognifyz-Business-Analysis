@@ -2,7 +2,7 @@
 In this project, I aim to analyze an investment dataset to uncover valuable insights that can guide decision-making for potential investors. The dataset includes various financial metrics and historical data points related to different investment opportunities.
 
 ## Table of Contents
-1. [Investment Insights: A Comprehensive Analysis](#Investment_Insights_:_A_Comprehensive_Analysis)  
+1. [Project Overview](#Project-Overview)  
 2. [Objectives](#objectives)  
 3. [Beneficiaries](#beneficiaries)  
 4. [Data Used](#data-used)  
@@ -15,6 +15,8 @@ In this project, I aim to analyze an investment dataset to uncover valuable insi
 11. [Task 5: Reasons for Investment](#task-5-reasons-for-investment)  
 12. [Task 6: Saving Objectives](#task-6-saving-objectives)  
 
+## Project Overview 
+In this project, I aim to analyze an investment dataset to uncover valuable insights that can guide decision-making for potential investors. The dataset includes various financial metrics and historical data points related to different investment opportunities.
 
 ## Objectives:
 •	**Data Overview**: To Understand the dataset structure.
